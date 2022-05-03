@@ -1,5 +1,6 @@
-package com.example.appselectdev
+package com.example.appselectdev.viewmodel
 
+import com.example.appselectdev.data.TestDC
 import retrofit2.Call
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

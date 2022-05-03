@@ -1,4 +1,7 @@
-package com.example.appselectdev
+package com.example.appselectdev.data
+
+import com.example.appselectdev.data.Link
+import com.example.appselectdev.data.Multimedia
 
 data class Result(
     val byline: String,

@@ -1,4 +1,4 @@
-package com.example.appselectdev
+package com.example.appselectdev.data
 
 data class Multimedia(
     val height: Int,
