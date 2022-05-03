@@ -1,4 +1,7 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
+//b1DiD8WqCZFoxJT7fA8PxLyil8Zvsk0U api
+//Lf4lYazfzLY1O22B secret
+//https://api.nytimes.com/svc/movies/v2/reviews/search.json?&api-key=b1DiD8WqCZFoxJT7fA8PxLyil8Zvsk0U url
 buildscript {
     ext.kotlin_version = "1.5.31"
     repositories {
