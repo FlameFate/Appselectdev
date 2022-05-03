@@ -1,4 +1,4 @@
-package com.example.appselectdev
+package com.example.appselectdev.viewmodel
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,6 +6,8 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.appselectdev.R
+import com.example.appselectdev.data.Result
 import com.squareup.picasso.Picasso
 
 class CustomAdapter(private val mList: List<Result>?) : RecyclerView.Adapter<CustomAdapter.ViewHolder>() {
